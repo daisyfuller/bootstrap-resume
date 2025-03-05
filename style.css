@@ -1,0 +1,55 @@
+<style> 
+
+	body {
+  background-image: url("stars.png");
+  background-color: rgb(252,232,238);
+  text-align: center;
+   margin-top: 100px;
+  margin-bottom: 200px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+  h1 {
+    font: bold 5em "Lucida Handwriting", "Cursive" , cursive;
+    color: deeppink;
+    text-shadow: .05em .05em .1em lightslategray;
+	}
+  h2 {
+  	font: bold 3em "Georgia", "serif;" , serif;
+    font-size: 1.5em;
+    letter-spacing: .5em;
+    color: deeppink;
+    }
+  a:link { 
+  	font: bold 1em "Lucida Handwriting", "Cursive" , cursive;
+	font-weight: bold; 
+	text-decoration: underline; 
+	color: palevioletred;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: underline; 
+	color: palevioletred;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: lightpink;
+	}
+#info p{
+	color: palevioletred;
+}
+#skills p{
+	color: palevioletred;
+}
+#experience p{
+	color:palevioletred;
+}
+
+ul {
+list-style-type: square;
+display: inline-block;
+text-align: left;
+}
+
+	</style>/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
